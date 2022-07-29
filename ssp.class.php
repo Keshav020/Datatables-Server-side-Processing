@@ -73,8 +73,8 @@ class SSP {
 	 * Obtain an PHP PDO connection from a connection details array
 	 *
 	 *  @param  array $conn SQL connection details. The array should have
-	 *    the following properties
-	 *     * host - host name
+	 *    the following 
+	 *     * localhost - host name
 	 *     * db   - database name
 	 *     * user - user name
 	 *     * pass - user password
